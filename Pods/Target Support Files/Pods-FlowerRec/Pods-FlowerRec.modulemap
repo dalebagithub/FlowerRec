@@ -1,0 +1,6 @@
+framework module Pods_FlowerRec {
+  umbrella header "Pods-FlowerRec-umbrella.h"
+
+  export *
+  module * { export * }
+}
